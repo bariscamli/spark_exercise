@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbde9eec-7219-4bca-bb69-4689478202db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="data_engineer_case" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="23beHK2j5SzaCK6mE4eacErX0wq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="data_engineer_case" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="data_engineer_case" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="MainTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.avgSales_location" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="data_engineer_case" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="MainTest" />
+      <option name="testName" value="avgSales_location" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.net" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="data_engineer_case" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="MainTest" />
+      <option name="testName" value="net" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.price_change" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="data_engineer_case" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="MainTest" />
+      <option name="testName" value="price_change" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="ScalaTest.MainTest" />
+        <item itemvalue="ScalaTest.MainTest.price_change" />
+        <item itemvalue="ScalaTest.MainTest.avgSales_location" />
+        <item itemvalue="ScalaTest.MainTest.net" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="data_engineer_case" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="data_engineer_case [file:/Users/baris/Desktop/data_engineer_case/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="data_engineer_case-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3899084925" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbde9eec-7219-4bca-bb69-4689478202db" name="Default Changelist" comment="" />
+      <created>1642007124710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642007124710</updated>
+      <workItem from="1642007126150" duration="25160000" />
+      <workItem from="1642076917779" duration="864000" />
+      <workItem from="1642079405553" duration="8659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="310" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1642086591854">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="578" y="310" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642086591854" />
+    <state x="94" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1642007241026">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="94" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642007241026" />
+    <state x="100" y="125" width="1480" height="825" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1642084425682">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="100" y="125" width="1480" height="825" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642084425682" />
+    <state x="2540" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642075104953">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2540" y="356" key="#com.intellij.fileTypes.FileTypeChooser/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1642075104953" />
+    <state x="367" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1642007240282">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="367" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642007240282" />
+    <state width="789" height="192" key="GridCell.Tab.0.bottom" timestamp="1642088086514">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="789" height="192" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642088086514" />
+    <state width="1519" height="394" key="GridCell.Tab.0.bottom/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1642075515401" />
+    <state width="789" height="192" key="GridCell.Tab.0.center" timestamp="1642088086513">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="789" height="192" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642088086513" />
+    <state width="1519" height="394" key="GridCell.Tab.0.center/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1642075515400" />
+    <state width="789" height="192" key="GridCell.Tab.0.left" timestamp="1642088086513">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="789" height="192" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642088086513" />
+    <state width="1519" height="394" key="GridCell.Tab.0.left/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1642075515399" />
+    <state width="789" height="192" key="GridCell.Tab.0.right" timestamp="1642088086513">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="789" height="192" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642088086513" />
+    <state width="1519" height="394" key="GridCell.Tab.0.right/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1642075515400" />
+    <state x="407" y="148" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1642086444480">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="407" y="148" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1680.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1642086444480" />
+  </component>
+</project>
