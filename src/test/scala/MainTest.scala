@@ -9,7 +9,7 @@ class MainTest extends AnyFunSuite with Matchers {
     val spark:SparkSession = SparkSession
       .builder()
       .master("local")
-      .appName("Spark Trendyol Test Case")
+      .appName("Spark Test Case")
       .getOrCreate()
 
     import spark.implicits._
