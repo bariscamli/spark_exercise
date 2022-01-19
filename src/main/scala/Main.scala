@@ -9,7 +9,7 @@ object Main {
         val spark:SparkSession = SparkSession
           .builder()
           .master("local")
-          .appName("Spark Trendyol Case")
+          .appName("Spark Case")
           .getOrCreate()
 
         import spark.implicits._
